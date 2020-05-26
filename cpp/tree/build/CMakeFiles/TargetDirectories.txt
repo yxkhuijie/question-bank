@@ -1,0 +1,3 @@
+/home/mobvoi/github/question-bank/cpp/tree/build/CMakeFiles/edit_cache.dir
+/home/mobvoi/github/question-bank/cpp/tree/build/CMakeFiles/rebuild_cache.dir
+/home/mobvoi/github/question-bank/cpp/tree/build/CMakeFiles/tree.dir
